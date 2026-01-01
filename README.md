@@ -34,3 +34,25 @@ The system analyzes factors such as **soil type, rainfall, temperature, humidity
 ### 1️⃣ Clone the repository
 ```bash
 https://github.com/exp0nent/Crop_Recommendation-system
+```
+
+## 🚀 Future Enhancements
+
+- **Integration of real-time weather data for better accuracy**
+- **Crop market price and profitability analysis**
+- **Development of a mobile application**
+- **User feedback integration to continuously improve model performance**
+
+## 🤝 Contributing
+
+- **Contributions are welcome!**
+- **If you have suggestions, feature requests, or bug reports, please create an issue in the GitHub repository.**
+
+## 🙏 Acknowledgements
+
+- **We thank the agricultural research community, farmers, and organizations for providing valuable data, insights, and domain knowledge that helped in building this system.**
+
+## 📧 Contact
+- **📩 Email: aatirali18@gmail.com**
+- **For any queries or support, feel free to reach out:)**
+
