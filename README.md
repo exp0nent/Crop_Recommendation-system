@@ -55,4 +55,3 @@ https://github.com/exp0nent/Crop_Recommendation-system
 ## 📧 Contact
 - **📩 Email: aatirali18@gmail.com**
 - **For any queries or support, feel free to reach out:)**
-
